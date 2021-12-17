@@ -22,6 +22,6 @@ Olá 👋 Eu me chamo Hudson Souza
 - 👯 I’m looking to collaborate on: with a lot of projects and learn 👌
 - 🤔 I’m looking for help with: learning more about technologies
 - 💬 Ask me about: anything 😎
-- 📫 How to reach me: U can contact me in my whatsapp nunmber: <a>shorturl.at/buCPW</a> 📲
+- 📫 How to reach me: U can contact me in my whatsapp nunmber: shorturl.at/buCPW  📲
 - ⚡ Fun fact: ... Dolphins 🐬 sleeps with one eye 👀 open
 
