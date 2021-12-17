@@ -16,8 +16,14 @@ Olá 👋 Eu me chamo Hudson Souza
   <img align="left" alt="HUDEVBR-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="left" alt="HUDEVBR-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   
-  <img align="right" alt="HUDEVBR-picture" height="120" class="circle" src="https://i.ibb.co/qjC9jcN/GITHUB-profile-pic.jpg">
-</div><br><br><br>
+  <img align="right" alt="HUDEVBR-picture" height="120" style="border_radius" src="https://i.ibb.co/qjC9jcN/GITHUB-profile-pic.jpg">
+</div><br><br><br><br>
+  
+  <div> 
+<a href="https://www.instagram.com/hudsondevrj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:forhudson@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hudsonfsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 
 - 🔭 I’m currently working ✍️: with accounting 😐, but i wanna work with development ✌️ 😄 (in trasition of Career)
 - 🌱 I’m currently learning: javascript, nodeJS, and reactJS 😉 
