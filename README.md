@@ -11,8 +11,12 @@ Olá 👋 Eu me chamo Hudson Souza
   <img align="left" alt="HUDEVBR-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="HUDEVBR-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="HUDEVBR-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="HUDEVBR-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="left" alt="HUDEVBR-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="left" alt="HUDEVBR-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="left" alt="HUDEVBR-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   
-  <img align="right" alt="HUDEVBR-picture" height="120" style="border-radius:70px" src="https://i.ibb.co/qjC9jcN/GITHUB-profile-pic.jpg">
+  <img align="right" alt="HUDEVBR-picture" height="120" class="circle" src="https://i.ibb.co/qjC9jcN/GITHUB-profile-pic.jpg">
 </div><br><br><br>
 
 - 🔭 I’m currently working ✍️: with accounting 😐, but i wanna work with development ✌️ 😄 (in trasition of Career)
@@ -22,4 +26,3 @@ Olá 👋 Eu me chamo Hudson Souza
 - 💬 Ask me about: anything 😎
 - 📫 How to reach me: U can contact me in my whatsapp nunmber: shorturl.at/buCPW  📲
 - ⚡ Fun fact: ... Dolphins 🐬 sleeps with one eye 👀 open
-
