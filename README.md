@@ -33,4 +33,3 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
 - 🤔 Procuro ajuda em outros repositórios para aprender mais e poder colaborar aqui no GH
 - 💬 Se desejar ajuda, me pergunte tudo 😎 (respondo o que eu realmente souber)
 - 📫 Como me contatar, Whatsapp => shorturl.at/buCPW  📲
-- ⚡ Curiosidade: Golfinhos 🐬 dormem com um olho 👀 aberto
