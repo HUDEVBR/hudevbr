@@ -27,10 +27,10 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
     
   </div>
 
-- 🔭 I’m currently working ✍️: with accounting 😐, but i wanna work with development ✌️ 😄 (in trasition of Career)
-- 🌱 I’m currently learning: javascript, nodeJS, and reactJS 😉 
-- 👯 I’m looking to collaborate on: with a lot of projects and learn 👌
-- 🤔 I’m looking for help with: learning more about technologies
-- 💬 Ask me about: anything 😎
-- 📫 How to reach me: U can contact me in my whatsapp nunmber: shorturl.at/buCPW  📲
-- ⚡ Fun fact: ... Dolphins 🐬 sleeps with one eye 👀 open
+- 🔭 Eu atualmente trabalho com ✍️ contabilidade 😐, mais o que mais quero é ser desenvolvedor ✌️ 😄 (atualmente em transição de carreira)
+- 🌱Atualmente estudando: Javascript e suas bibliotecas 😉 
+- 👯 Procurando colaborar com projetos OPEN-SOURCE 👌
+- 🤔 Procuro ajuda em outros repositórios para aprender mais e poder colaborar aqui no GH
+- 💬 Se desejar ajuda, me pergunte tudo 😎 (respondo o que eu realmente souber)
+- 📫 Como me contatar, Whatsapp => shorturl.at/buCPW  📲
+- ⚡ Curiosidade: Golfinhos 🐬 dormem com um olho 👀 aberto
