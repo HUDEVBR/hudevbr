@@ -16,7 +16,7 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
   <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   
-  <img align="right" alt="HUDEVBR-picture" height="120" style="border_radius" src="https://i.ibb.co/J7qvpbv/GITHUB-cartoon.png">
+  <img align="right" alt="HUDEVBR-picture" width="150cm" style="border_radius" src="https://i.ibb.co/mHH4Qmv/black-hero-no-background.png">
 </div><br><br>
   
   <div> 
