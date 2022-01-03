@@ -29,7 +29,7 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
 </div>
 <br>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=541AC0&bg_color=A6F8E9&point=EA0CCF&area_color=541AC0&area=true" width="600px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=0E84B4&bg_color=000898&point=F2EB11&area_color=541AC0&area=false&color=F2EB11" width="900px" />
 
   
   ### Contato:
@@ -48,5 +48,3 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
 - 🔭 Eu atualmente trabalho com ✍️ contabilidade 😐, mas desejo sair dessa área e atuar como desenvolvedor ✌️ 😄 (em transição de carreira).
 - 👯 Procurando colaborar com projetos OPEN-SOURCE 👌
 - 🤔 Procuro colaborar em outros repositórios para com o intuito de aprender mais
--  Se desejar ajuda, me pergunte tudo 😎 (respondo o que eu realmente souber)
--  Como me contatar, Whatsapp => shorturl.at/buCPW  
