@@ -29,7 +29,7 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
 </div>
 <br>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=541AC0&bg_color=A6F8E9&point=EA0CCF&area_color=541AC0&area=true" width="600px" />
 
   
   ### Contato:
