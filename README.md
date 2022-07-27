@@ -1,4 +1,4 @@
-Bem-vindo !  👋 Prazer, sou o Hudson Souza 
+Bem-vindo !  👋
 
 <div align="left">
   <a href="https://github.com/hudevbr">
@@ -29,7 +29,7 @@ Bem-vindo !  👋 Prazer, sou o Hudson Souza
 </div>
 <br>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=0E84B4&bg_color=000898&point=F2EB11&area_color=541AC0&area=false&color=F2EB11" width="900px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=0E84B4&bg_color=52F485&point=F2EB11&area_color=541AC0&area=false&color=F2EB11" width="900px" />
 
   
   ### Contato:
