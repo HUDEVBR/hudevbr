@@ -21,7 +21,7 @@ Bem-vindo !  👋
   
   ### Ferramentas:
 <div style="display: inline_block">
-  <img target="_blank" align="center" alt="HUDEVBR-NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img target="_blank" align="center" alt="HUDEVBR-VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img target="_blank" align="center" alt="HUDEVBR-NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img target="_blank" align="center" alt="HUDEVBR-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img target="_blank" align="center" alt="HUDEVBR-PRETTIER" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
@@ -29,15 +29,13 @@ Bem-vindo !  👋
 </div>
 <br>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=0E84B4&bg_color=52F485&point=F2EB11&area_color=541AC0&area=false&color=F2EB11" width="900px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=FFB4B4&bg_color=FFE7BF&point=B2A4FF&area_color=FFDEB4&area=false&color=B2A4FF" width="600px" />
 
   
   ### Contato:
 <div> 
-  <a href="https://www.instagram.com/hudsondevrj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:forhudson@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">📫</a>
   <a href="https://www.linkedin.com/in/hudsonfsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://web.whatsapp.com/send?phone=+5521996137157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">💬📲</a><br><br>
+  <a href="https://web.whatsapp.com/send?phone=+5521996137157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a><br><br>
 </div>
   
   ## Total de visitas no meu perfil <br>
@@ -45,6 +43,6 @@ Bem-vindo !  👋
    <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/HUDEVBR/count.svg" />
  </p>
 
-- 🔭 Eu atualmente trabalho com ✍️ contabilidade 😐, mas desejo sair dessa área e atuar como desenvolvedor ✌️ 😄 (em transição de carreira).
-- 👯 Procurando colaborar com projetos OPEN-SOURCE 👌
-- 🤔 Procuro colaborar em outros repositórios para com o intuito de aprender mais
+- 🔭 Eu atualmente trabalho com ✍️ contabilidade 😐, mas estou em transição de carreira para atuar como desenvolvedor ✌️ 😄.
+- 👯 Procurando por projetos OPEN-SOURCE 👌
+- 🤓 Estudando ReactJS e outras libs do JS.
