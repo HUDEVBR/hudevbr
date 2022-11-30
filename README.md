@@ -24,12 +24,12 @@ Bem-vindo !  👋
   <img target="_blank" align="center" alt="HUDEVBR-VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img target="_blank" align="center" alt="HUDEVBR-NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img target="_blank" align="center" alt="HUDEVBR-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img target="_blank" align="center" alt="HUDEVBR-PRETTIER" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
   <img target="_blank" align="center" alt="HUDEVBR-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 <br>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&line=FFB4B4&bg_color=FFE7BF&point=B2A4FF&area_color=FFDEB4&area=false&color=B2A4FF" width="600px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&&theme=github" width="600px" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=HUDEVBR&theme=monokai)](https://git.io/streak-stats)
 
   
   ### Contato:
