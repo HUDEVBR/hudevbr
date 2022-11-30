@@ -29,6 +29,7 @@ Bem-vindo !  👋
 <br>
   
   <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&&theme=github" width="600px" />
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=HUDEVBR&theme=monokai)](https://git.io/streak-stats)
 
   
@@ -42,7 +43,9 @@ Bem-vindo !  👋
  <p align="center"> 
    <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/HUDEVBR/count.svg" />
  </p>
+  
 
-- 🔭 Eu atualmente trabalho com ✍️ contabilidade 😐, mas estou em transição de carreira para atuar como desenvolvedor ✌️ 😄.
-- 👯 Procurando por projetos OPEN-SOURCE 👌
-- 🤓 Estudando ReactJS e outras libs do JS.
+
+- 🔭 Atualmente trabalhando com contabilidade 😐, mas em transição de carreira para atuar como desenvolvedor ✌️ 😄.
+- 👯 Procurando por projetos OPEN-SOURCE para participar e aprender 👌
+- 🤓 Estudando ReactJS, JAVA e outras bibliotecas do Javascript.
