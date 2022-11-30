@@ -16,7 +16,6 @@ Bem-vindo !  👋
   <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
   <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-  <img align="right" alt="HUDEVBR-picture" width="150cm" style="border_radius" src="https://i.ibb.co/mHH4Qmv/black-hero-no-background.png">
 </div><br><br>
   
   ### Ferramentas:
@@ -30,6 +29,7 @@ Bem-vindo !  👋
   
   <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&&theme=github" width="600px" />
   
+  ## Máximas:
   [![GitHub Streak](https://streak-stats.demolab.com?user=HUDEVBR&theme=monokai)](https://git.io/streak-stats)
 
   
