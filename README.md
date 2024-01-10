@@ -29,8 +29,8 @@ Bem-vindo !  👋
   
   <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&&theme=github" width="600px" />
   
-  ## Máximas:
-  [![GitHub Streak](https://streak-stats.demolab.com?user=HUDEVBR&theme=monokai)](https://git.io/streak-stats)
+  ## Streaks:
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=HUDEVBR)](https://git.io/streak-stats)
 
   
   ### Contato:
