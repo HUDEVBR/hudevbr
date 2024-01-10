@@ -30,7 +30,7 @@ Bem-vindo !  👋
   <img src="https://activity-graph.herokuapp.com/graph?username=hudevbr&&theme=github" width="600px" />
   
   ## Streaks:
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=HUDEVBR)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hudevbr)](https://git.io/streak-stats)
 
   
   ### Contato:
