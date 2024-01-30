@@ -44,6 +44,6 @@ Bem-vindo !  👋
   
 
 
-- 🔭 Atualmente trabalhando com contabilidade 😐, mas em transição de carreira para atuar como desenvolvedor ✌️ 😄.
+- 🔭 Atualmente trabalhando com contabilidade, mas em transição de carreira para atuar como desenvolvedor ✌️ 😄.
 - 👯 Procurando por projetos OPEN-SOURCE para participar e aprender 👌
-- 🤓 Estudando ReactJS, JAVA e outras bibliotecas do Javascript.
+- 🤓 Estudando React, JAVA e outras tecnologias para ser um melhor full-stack
