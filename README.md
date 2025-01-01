@@ -10,12 +10,12 @@ Bem-vindo !  👋
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70"/>
-  </div><br>
+  </div>
 
   ### Framework:
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="70"/>
-  </div><br>
+  </div>
 
   ### Bibliotecas:
   <div>
@@ -25,17 +25,17 @@ Bem-vindo !  👋
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" height="70"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height="70"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meteor/meteor-original.svg" height="70"/>
-  </div><br>
+  </div>
 
    ### SSR:
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="70"/>
-  </div><br>
+  </div>
 
    ### Criptografia:
   <div>
    <img target="_blank" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="70">
-  </div><br>
+  </div>
   
   ### Banco de Dados:
 <div style="display: inline_block">
@@ -43,7 +43,6 @@ Bem-vindo !  👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysqlsql-original.svg" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="70"/>
 </div>
-<br>
   
   ## Streaks:
   [![GitHub Streak](https://streak-stats.demolab.com/?user=hudevbr)](https://git.io/streak-stats)
@@ -52,7 +51,7 @@ Bem-vindo !  👋
   ### Contato:
 <div> 
   <a href="https://www.linkedin.com/in/hudsonfsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://web.whatsapp.com/send?phone=+5521996137157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a><br><br>
+  <a href="https://web.whatsapp.com/send?phone=+5521996137157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
   
   ## Total de visitas no meu perfil <br>
