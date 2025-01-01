@@ -8,22 +8,40 @@ Bem-vindo !  👋
 
   ### Linguagens:
   <div>
-  <img align="left" alt="HUDEVBR-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="HUDEVBR-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="HUDEVBR-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="HUDEVBR-React" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="left" alt="HUDEVBR-Git" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
-</div><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70"/>
+  </div><br>
+
+  ### Framework:
+  <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="70"/>
+  </div><br>
+
+  ### Bibliotecas:
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="70"/>
+    <img target="_blank" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/chartjs-gbwxkdn5urp4w5jg9xk4g5.png/chartjs-p7803bgd17hc5uxtz82i.png" height="70">
+    <img target="_blank" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/096/thumb/leaflet.png" height="70">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/meteor/meteor-original.svg" height="70"/>
+  </div><br>
+
+   ### SSR:
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="70"/>
+  </div><br>
+
+   ### Criptografia:
+  <div>
+   <img target="_blank" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="70">
+  </div><br>
   
-  ### Ferramentas:
+  ### Banco de Dados:
 <div style="display: inline_block">
-  <img target="_blank" align="center" alt="HUDEVBR-VERCEL" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img target="_blank" align="center" alt="HUDEVBR-NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img target="_blank" align="center" alt="HUDEVBR-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img target="_blank" align="center" alt="HUDEVBR-WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysqlsql-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="70"/>
 </div>
 <br>
   
