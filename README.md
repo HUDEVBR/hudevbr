@@ -67,7 +67,7 @@ Bem-vindo !  👋
       DevOps:
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" height="70"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="70"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="70"/>
     </div>
   </div>
 
