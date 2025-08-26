@@ -125,14 +125,6 @@
 
 ---
 
-## 👀 Total de visitas:
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/HUDEVBR/count.svg" />
-</p>
-
----
-
 ## Sobre mim:
 
 - 🔭 Atualmente trabalhando com contabilidade, mas em transição de carreira para atuar como desenvolvedor ✌️ 😄  
